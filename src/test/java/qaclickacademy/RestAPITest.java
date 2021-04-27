@@ -12,14 +12,19 @@ public class RestAPITest {
 		System.out.println("PostJira-1");
 		System.out.println("PostJira-2");
 		System.out.println("PostJira-3");
-		System.out.println("PostJira-4");
-		System.out.println("PostJira-5");
+		
 		
 	}
 	
 	@Test
-	public void deleteTwitter()
+	public void ElementsUI()
 	{
-		System.out.println("deleteTwitter");
+		System.out.println("ElementsUI");
+	}
+	
+	@Test
+	public void DataGit()
+	{
+		System.out.println("Data git repository");
 	}
 }

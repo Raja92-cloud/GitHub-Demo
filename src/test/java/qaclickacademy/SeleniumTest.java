@@ -10,11 +10,18 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation");
 		
 		System.out.println("Web Automation");
+		System.out.println("Mobile Automation");
 	}
 	
 	@Test
 	public void ElementsUI()
 	{
 		System.out.println("ElementsUI");
+	}
+	
+	@Test
+	public void ElementsUnits()
+	{
+		System.out.println("ElementsUnits");
 	}
 }

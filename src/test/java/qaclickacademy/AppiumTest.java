@@ -14,5 +14,12 @@ public class AppiumTest {
 	public void IosApp()
 	{
 		System.out.println("IosApp");
+		System.out.println("Mobile App");
+		System.out.println("GitHub App");
+	}
+	
+	public void IosApps()
+	{
+		System.out.println("US Apps");
 	}
 }
