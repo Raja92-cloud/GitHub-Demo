@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57" started-at="2021-04-03T13:34:26Z" finished-at="2021-04-03T13:34:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57" started-at="2021-04-03T13:34:26Z" finished-at="2021-04-03T13:34:26Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IosApp()[pri:0, instance:qaclickacademy.AppiumTest@709ba3fb]" name="IosApp" duration-ms="11" started-at="2021-04-03T19:04:26Z" finished-at="2021-04-03T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@709ba3fb]" name="NativeAppAndroid" duration-ms="1" started-at="2021-04-03T19:04:26Z" finished-at="2021-04-03T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:qaclickacademy.RestAPITest@525b461a]" name="PostJira" duration-ms="0" started-at="2021-04-03T19:04:26Z" finished-at="2021-04-03T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.RestAPITest@525b461a]" name="deleteTwitter" duration-ms="0" started-at="2021-04-03T19:04:26Z" finished-at="2021-04-03T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@7ff2a664]" name="BrowserAutomation" duration-ms="1" started-at="2021-04-03T19:04:26Z" finished-at="2021-04-03T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:qaclickacademy.SeleniumTest@7ff2a664]" name="ElementsUI" duration-ms="1" started-at="2021-04-03T19:04:26Z" finished-at="2021-04-03T19:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
