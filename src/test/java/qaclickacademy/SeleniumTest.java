@@ -24,4 +24,9 @@ public class SeleniumTest {
 	{
 		System.out.println("ElementsUnits");
 	}
+	@Test
+	public void GitRepository()
+	{
+		System.out.println("Push and Pull code");
+	}
 }
